@@ -19,3 +19,9 @@ This repository contains notes from the LangChain course by Ansh Lamba on YouTub
 - Python 3.10 or newer
 - Install langchain
 
+## Initial steps
+- uv init : Initialization
+- uv sync : Make virtual environment
+- source .venv/bin/activate : Activate environemt
+- uv add langchain : To add any package (Make sure venv is activated)
+- uv add -r requirements.txt
